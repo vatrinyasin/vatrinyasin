@@ -1,7 +1,6 @@
-<div align="center"><img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/2a0a6867-ad8b-4be5-b159-495ddc70b946" /> </div>
+<div align="center"><img width="800" height="900" alt="Image" src="https://github.com/user-attachments/assets/b297a74d-8d97-4e0c-be82-2f613905496b" /> </div>
 <h3 align="center">
-  <a href="https://vatrin.carrd.co">Carrd</a>
-  <a href="https://vatrinyasin.atabook.org/">Ata</a>
-  <br>
-  <a href="https://rinslovemail.carrd.co/">  Lovemail♡   </a>
+  ꔫ <a href="https://vatrin.carrd.co">carrd</a> .
+  <a href="https://vatrinyasin.atabook.org/">ata</a> .
+  <a href="https://rinslovemail.carrd.co/"> lovemail </a> ꔫ
 </h3>
