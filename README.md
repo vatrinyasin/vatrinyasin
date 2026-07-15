@@ -1,7 +1,10 @@
 <h4 align="center">
  <br>
- <img width="620" height="40" alt="Image" src="https://github.com/user-attachments/assets/a0bab101-472c-4197-af93-93d2c42679c5" />
- 
+ <picture>
+  <source media="(prefers-color-scheme: dark)"srcset="img width="10"https://github.com/user-attachments/assets/a0bab101-472c-4197-af93-93d2c42679c5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a0bab101-472c-4197-af93-93d2c42679c5" />
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/a0bab101-472c-4197-af93-93d2c42679c5" />
+</picture>
   <br>
   <br>
  ꔫ <a href="https://vatrin.carrd.co">carrd</a> .
@@ -11,8 +14,17 @@
 </h4>
  <br>
 <div align="center">
- <img width="614" height="690" alt="Image" src="https://github.com/user-attachments/assets/ada54c3b-6143-4a7c-9fdf-bb35d8f80288" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"srcset="img width="200"https://github.com/user-attachments/assets/47503409-e9b6-490a-a78e-2c98723e1fa1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/47503409-e9b6-490a-a78e-2c98723e1fa1" />
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/47503409-e9b6-490a-a78e-2c98723e1fa1" />
+</picture>
+
    <br>
    <br>
-<img width="620" height="40" alt="Image" src="https://github.com/user-attachments/assets/a0bab101-472c-4197-af93-93d2c42679c5" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"srcset="img width="10"https://github.com/user-attachments/assets/a0bab101-472c-4197-af93-93d2c42679c5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a0bab101-472c-4197-af93-93d2c42679c5" />
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/a0bab101-472c-4197-af93-93d2c42679c5" />
+</picture></div>
 
