@@ -9,7 +9,7 @@
   <br>
  ꔫ <a href="https://vatrin.carrd.co">carrd</a> .
   <a href="https://vatrinyasin.atabook.org/">ata</a> .
-  <a href="https://rinslovemail.carrd.co/"> lovemail .</a> 
+  <a href="https://rinslovemail.carrd.co/"> lovemail</a> .
  <a href="https://rinsartdump.straw.page/">drawings</a> ꔫ
 </h3>
  <br>
