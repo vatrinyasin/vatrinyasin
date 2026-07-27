@@ -7,10 +7,10 @@
 </picture>
   <br>
   <br>
- ꔫ <a href="https://vatrin.carrd.co">carrd</a> .
+  ‎ <a href="https://vatrin.carrd.co">carrd</a> .
   <a href="https://vatrinyasin.atabook.org/">ata</a> .
   <a href="https://rinslovemail.carrd.co/"> lovemail</a> .
- <a href="https://rinsartdump.straw.page/">drawings</a> ꔫ
+ <a href="https://rinsartdump.straw.page/">drawings</a> 
 </h3>
  <br>
 <div align="center">
