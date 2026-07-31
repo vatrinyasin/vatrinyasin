@@ -1,6 +1,6 @@
 <h3 align="center">
  <br>
-  ‎ <a href="https://vatrin.carrd.co">carrd</a> .
+  ‎ <a href="https://vatrinyasin.carrd.co">carrd</a> .
   <a href="https://vatrinyasin.atabook.org/">ata</a> .
   <a href="https://rinslovemail.carrd.co/"> lovemail</a> .
  <a href="https://rinsartdump.straw.page/">drawings</a> 
