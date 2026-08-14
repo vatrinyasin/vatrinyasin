@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/vatrinyasin/vatrinyasin?style=flat-square&label=KINGS&labelColor=red&color=black">
+ <img alt="Static Badge" src="https://img.shields.io/badge/KING-red?style=for-the-badge">
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)"srcset="img width="200"https://github.com/user-attachments/assets/f5a5e190-43ad-4c56-8049-edf5cc483f95
