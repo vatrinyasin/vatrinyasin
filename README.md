@@ -10,8 +10,7 @@
 <h3 align="center">
  <br>
  <br>
-<a href="https://vatrinyasin.atabook.org/">𝖆𝖙𝖆𝖇𝖔𝖔𝖐</a>       
-<a href="https://rinsartdump.straw.page/">𝖉𝖗𝖆𝖜𝖎𝖓𝖌𝖘</a> 
+<a href="https://fluffle.cc/vatrinurls">urls</a> 
 </h3>
 
 
