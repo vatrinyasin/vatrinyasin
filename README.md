@@ -17,6 +17,7 @@
   anh em việt nam giúp tui ạ
   https://helpsme.straw.page/
   this person is impersonating LAVIE and perhaps trying to her life.
+  anh em có thông tin gì thì liên hệ tui vội ạ!
 </h3>
 
 
