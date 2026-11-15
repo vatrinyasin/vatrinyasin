@@ -8,8 +8,6 @@
   <br>
 <h3 align="center">
   <br>
-<a href="https://fluffle.cc/vatrinurls">(    ´⁠ω⁠｀   )</a>
+   <p align="center"> <a href="https://fluffle.cc/vatrinurls"> <img src="https://github.com/user-attachments/assets/72d6b0b1-6246-4dd8-822e-322fb61912a1" alt="https://github.com/user-attachments/assets/72d6b0b1-6246-4dd8-822e-322fb61912a1" width="90"> </a></p>
   <br>  
 </h3>
-
-
