@@ -1,9 +1,9 @@
 <div align="center">
    <br>
 <picture>
-  <source media="(prefers-color-scheme: dark) src="https://github.com/user-attachments/assets/36c6b50d-463e-43c5-b77a-416a4c597f42"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/36c6b50d-463e-43c5-b77a-416a4c597f42"/>
-  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/36c6b50d-463e-43c5-b77a-416a4c597f42"/>
+  <source media="(prefers-color-scheme: dark) src="https://github.com/user-attachments/assets/b8048f70-3161-4775-9ee5-43f8ccb2ef22"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b8048f70-3161-4775-9ee5-43f8ccb2ef22"/>
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/b8048f70-3161-4775-9ee5-43f8ccb2ef22"/>
 </picture>
   <br>
 <h3 align="center">
