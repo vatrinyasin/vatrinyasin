@@ -7,7 +7,8 @@
 </picture>
   <br>
 <h3 align="center">
-  <br>
-   <p align="center"> <a href="https://fluffle.cc/vatrinurls"> <img src="https://github.com/user-attachments/assets/72d6b0b1-6246-4dd8-822e-322fb61912a1" alt="https://github.com/user-attachments/assets/72d6b0b1-6246-4dd8-822e-322fb61912a1" width="90"> </a></p>
+   <p align="center"> <a href="https://fluffle.cc/vatrinurls"> <img src="https://github.com/user-attachments/assets/47268bb3-7a25-4397-82ad-8946b403d001" alt=".." width="100"> </a></p>
   <br>  
+     <br>  
+     <br>  
 </h3>
